@@ -19,4 +19,9 @@ In this project, I worked with two other students to develop an interface that h
 Marvel: https://marvelapp.com/prototype/c4598gd/screen/78041445
 GitHub link for project: https://github.com/jackieder/TTM
 
+Chess simulator:
+
+A chess game between a knight and a rook. This is a spin-off from a class project in Northeastern University. I expanded and built upon a basic chess assignment where we had to create chess pieces. More information is available within the GitHub repo's README
+GitHub: https://github.com/noners6/Chess_2.1
+
 If you have any questions, please email me at: gal.n@northeastern.edu
