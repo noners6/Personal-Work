@@ -1,7 +1,14 @@
-# Personal-Work
-My personal work/projects
+# Experiences
 
 **Hello! Welcome to my GitHUb. Here I will put some of my personal projects and group projects I have worked on.**
+
+# Professional Work
+
+In Zus Health, I worked on a visualization for data web-app called FHIRplace that was based on React-admin, MUI, TypeScript/JS. This visualization tool used publicily available data-format called FHIR that is a standard in healthcare, but lacks visualization tools. Throughout my experience in Zus I advanced FHIRplace from being an early-stage development tool that wasn't yet usable, into a customer facing tool that could be sold/exposed to clients. Some of the things I did included transforming JSON files into easily digestable data, using API calls, async methods, designing components and implementing them, and expanding the functionality of the application. 
+
+
+# Personal/School Work 
+My personal work/projects
 
 *Northeatern University:*
 
