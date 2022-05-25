@@ -36,4 +36,4 @@ Chess simulator:
 A chess game between a knight and a rook. This is a spin-off from a class project in Northeastern University. I expanded and built upon a basic chess assignment where we had to create chess pieces. More information is available within the GitHub repo's README
 GitHub: https://github.com/noners6/Chess_2.1
 
-If you have any questions, please email me at: gal.n@northeastern.edu
+If you have any questions, please email me at: noamgalsv@gmail.com
