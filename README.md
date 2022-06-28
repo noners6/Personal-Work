@@ -2,7 +2,7 @@
 
 **Hello! Welcome to my GitHUb. Here I will put some of my personal projects and group projects I have worked on.**
 
-# Professional Work
+## Professional Work
 
 *Zus Health:*
 
@@ -12,17 +12,17 @@ More information and screenshots:
 https://github.com/noners6/Personal-Work/blob/main/FHIRplace/FHIRplace%20Screenshots.md
 
 
-# Personal/School Work 
+## Personal/School Work 
 My personal work/projects
 
-*Personal Work*:
+### *Personal Work*:
 
 Patients Database Website:
 This was a challenge I did, where I was tasked with creating a website that has two views:
 - A patient list view, where all patients can be seen in a table that is sortable, filterable, searchable and links to the patient individual view. 
 - A patient individual view, that displays a single patient with all its information. 
 
-*Northeatern University:*
+### *Northeatern University:*
 
 NUhabit:
 This was a group project for web development project.  It's a small website that helps its users keep track of habits they are trying to form, and awards them with badges after a certain number of days have been successfully completed. The website keeps track of the habits and the badges earned. 
