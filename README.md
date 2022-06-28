@@ -2,6 +2,8 @@
 
 **Hello! Welcome to my GitHUb. Here I will put some of my personal projects and group projects I have worked on.**
 
+If you have any questions, please email me at: noamgalsv@gmail.com
+
 ## Professional Work
 
 *Zus Health:*
@@ -44,4 +46,3 @@ A chess game between a knight and a rook. This is a spin-off from a class projec
 GitHub link:
 https://github.com/noners6/Chess_2.1
 
-If you have any questions, please email me at: noamgalsv@gmail.com
