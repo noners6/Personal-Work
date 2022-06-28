@@ -22,6 +22,7 @@ Patients Database Website:
 This was a challenge I did, where I was tasked with creating a website that has two views:
 - A patient list view, where all patients can be seen in a table that is sortable, filterable, searchable and links to the patient individual view. 
 - A patient individual view, that displays a single patient with all its information. 
+https://github.com/noners6/Patient-Database-Challenge
 
 ### *Northeatern University:*
 
