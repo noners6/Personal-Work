@@ -19,6 +19,13 @@ My personal work/projects
 
 ### *Personal Work*:
 
+Star Wars Trivia Game:
+
+In this project, I created a single page React TypeScript app. In the game, you load the app and initially see a button to get started. Once clicked on the button, there will be a random Star Wars trivia card generated through an API call, with a hidden answer. The card can be from one of 6 categories, and each category has its own color. 
+
+For more information, the full code and the ReadMe:
+https://github.com/noners6/Star-War-Trivia
+
 Patients Database Website:
 
 This was a challenge I did, where I was tasked with creating a website that has two views:
