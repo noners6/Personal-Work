@@ -35,7 +35,7 @@ This was a challenge I did, where I was tasked with creating a website that has 
 GitHub link:
 https://github.com/noners6/Patient-Database-Challenge
 
-### *Northeatern University:*
+### *Northeastern University:*
 
 NUhabit:
 This was a group project for web development project.  It's a small website that helps its users keep track of habits they are trying to form, and awards them with badges after a certain number of days have been successfully completed. The website keeps track of the habits and the badges earned. 
